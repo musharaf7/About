@@ -5,7 +5,7 @@ I'm a passionate developer who loves building clean, functional, and aesthetic d
 🔭 I’m currently working on:
 - Personal dotfiles and GitHub configurations
 - Custom themes (like **everpuccin-theme**) for a more enjoyable coding experience
-- My GitHub Pages site (Check it out: https://musharaf7.github.io/ultroneous)
+- My GitHub Pages site (Check it out: [https://m7sh.github.io/m7sh]
 
 🌱 I’m currently learning:
 - Advanced CSS & theming techniques
